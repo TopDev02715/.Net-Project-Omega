@@ -1,4 +1,4 @@
-﻿# Project Omega
+﻿# Project Omega - .NET
 
 The last enterprise web architecture pattern you'll ever need. Until the next one.
 
